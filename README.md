@@ -6,12 +6,13 @@ TIENEN QUE TENER
 Class
 -------------
 1.Crea 
-2. Dispara
+2.Manejador de eventos
+3.Delegado + manejador
 
 Form
 -------------
 1.Delegado
-2.Manejador de eventos
-3.Delegado + manejador
+2.Dispara
+
 
 DELEGADO--------firma------>EVENT----------> Ganar += new Delegad(metodo);
