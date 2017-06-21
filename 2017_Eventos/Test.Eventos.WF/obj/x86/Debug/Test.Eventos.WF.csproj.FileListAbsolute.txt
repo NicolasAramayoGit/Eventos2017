@@ -1,0 +1,20 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.frmJuego.resources
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.exe
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.pdb
+D:\octavio\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.exe
+D:\octavio\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.pdb
+D:\octavio\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.dll
+D:\octavio\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.pdb
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csprojResolveAssemblyReference.cache
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.frmJuego.resources
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.Properties.Resources.resources
+D:\octavio\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csproj.GenerateResource.Cache
