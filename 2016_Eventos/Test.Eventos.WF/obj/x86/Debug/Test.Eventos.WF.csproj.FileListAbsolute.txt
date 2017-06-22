@@ -10,3 +10,13 @@ c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.E
 c:\users\administrador\documents\visual studio 2010\Projects\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.frmJuego.resources
 C:\Users\alumno\Desktop\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.exe
 C:\Users\alumno\Desktop\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.pdb
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.exe
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\bin\Debug\Test.Eventos.WF.pdb
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.dll
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\bin\Debug\Entidades.Eventos.pdb
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.frmJuego.resources
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.Properties.Resources.resources
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.csproj.GenerateResource.Cache
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.exe
+D:\ARAMAYO_NICOLAS\Git\Eventos2017\2016_Eventos\Test.Eventos.WF\obj\x86\Debug\Test.Eventos.WF.pdb

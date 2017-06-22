@@ -42,6 +42,12 @@ namespace Entidades.Eventos
             get { return this._cantidadIntentos; }
         }
 
+        public int Intentos
+        {
+            get { return (int)this._dificultad; }
+        }
+
+
         static Juego() 
         {
             Juego._generadorDeNumeros = new Random();

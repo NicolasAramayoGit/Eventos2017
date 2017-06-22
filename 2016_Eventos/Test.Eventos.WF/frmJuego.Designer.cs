@@ -30,7 +30,7 @@
         {
             this.lblDificultad = new System.Windows.Forms.Label();
             this.lblNumero = new System.Windows.Forms.Label();
-            this.bntIniciar = new System.Windows.Forms.Button();
+            this.btnIniciar = new System.Windows.Forms.Button();
             this.cboDificultad = new System.Windows.Forms.ComboBox();
             this.txtNumero = new System.Windows.Forms.TextBox();
             this.lblIntentos = new System.Windows.Forms.Label();
@@ -39,6 +39,7 @@
             this.lblFracasos = new System.Windows.Forms.Label();
             this.lblCantExitos = new System.Windows.Forms.Label();
             this.lblCantFracasos = new System.Windows.Forms.Label();
+            this.btnCancelar = new System.Windows.Forms.Button();
             this.miPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,15 +61,15 @@
             this.lblNumero.TabIndex = 1;
             this.lblNumero.Text = "Número";
             // 
-            // bntIniciar
+            // btnIniciar
             // 
-            this.bntIniciar.Location = new System.Drawing.Point(95, 77);
-            this.bntIniciar.Name = "bntIniciar";
-            this.bntIniciar.Size = new System.Drawing.Size(75, 23);
-            this.bntIniciar.TabIndex = 3;
-            this.bntIniciar.Text = "&Iniciar";
-            this.bntIniciar.UseVisualStyleBackColor = true;
-            this.bntIniciar.Click += new System.EventHandler(this.bntIniciar_Click);
+            this.btnIniciar.Location = new System.Drawing.Point(48, 64);
+            this.btnIniciar.Name = "btnIniciar";
+            this.btnIniciar.Size = new System.Drawing.Size(75, 23);
+            this.btnIniciar.TabIndex = 3;
+            this.btnIniciar.Text = "&Iniciar";
+            this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.Click += new System.EventHandler(this.bntIniciar_Click);
             // 
             // cboDificultad
             // 
@@ -147,20 +148,31 @@
             this.lblCantFracasos.TabIndex = 10;
             this.lblCantFracasos.Text = "0";
             // 
-            // Form1
+            // btnCancelar
+            // 
+            this.btnCancelar.Location = new System.Drawing.Point(48, 93);
+            this.btnCancelar.Name = "btnCancelar";
+            this.btnCancelar.Size = new System.Drawing.Size(75, 23);
+            this.btnCancelar.TabIndex = 11;
+            this.btnCancelar.Text = "&Cancelar";
+            this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
+            // 
+            // frmJuego
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 314);
+            this.ClientSize = new System.Drawing.Size(284, 313);
+            this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.lblCantFracasos);
             this.Controls.Add(this.lblCantExitos);
             this.Controls.Add(this.lblFracasos);
             this.Controls.Add(this.lblExitos);
             this.Controls.Add(this.miPanel);
             this.Controls.Add(this.cboDificultad);
-            this.Controls.Add(this.bntIniciar);
+            this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.lblDificultad);
-            this.Name = "Form1";
+            this.Name = "frmJuego";
             this.Text = "Adivina el Número";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.miPanel.ResumeLayout(false);
@@ -174,7 +186,7 @@
 
         private System.Windows.Forms.Label lblDificultad;
         private System.Windows.Forms.Label lblNumero;
-        private System.Windows.Forms.Button bntIniciar;
+        private System.Windows.Forms.Button btnIniciar;
         private System.Windows.Forms.ComboBox cboDificultad;
         private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.Label lblIntentos;
@@ -183,6 +195,7 @@
         private System.Windows.Forms.Label lblFracasos;
         private System.Windows.Forms.Label lblCantExitos;
         private System.Windows.Forms.Label lblCantFracasos;
+        private System.Windows.Forms.Button btnCancelar;
     }
 }
 

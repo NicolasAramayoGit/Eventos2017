@@ -37,6 +37,7 @@ namespace Test.Eventos.WF
             
             //HAGO INVISIBLE LA OPCION DE INGRESO DE NUMEROS
             this.miPanel.Visible = false;
+
         }
 
         private void bntIniciar_Click(object sender, EventArgs e)
@@ -49,6 +50,12 @@ namespace Test.Eventos.WF
 
             //CONFIGURO PARA JUGAR
             this.Inicializar();
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            //Cierra el formulario.
+            this.Close();
         }
 
         private void InicializarManejadoresDeEventos()
@@ -70,6 +77,9 @@ namespace Test.Eventos.WF
 
             //INICIALIZO LA CANTIDAD DE INTENTOS REALIZADOS
             this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos;
+
+            this.btnIniciar.Visible = false;
+            this.btnCancelar.Visible = true;
         }
 
         private void txtNumero_KeyDown(object sender, KeyEventArgs e)
@@ -87,7 +97,7 @@ namespace Test.Eventos.WF
 
         private void Ganaste(object obj, EventArgs e)
         {
-            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos;
+            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos + " / " + this._juego.Intentos.ToString();
             this._cantidadExitos++;
             this.lblCantExitos.Text = this._cantidadExitos.ToString();
 
@@ -103,7 +113,7 @@ namespace Test.Eventos.WF
         
         private void Perdiste(object obj, JuegoEventArgs e)
         {
-            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos;
+            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos + " / " + this._juego.Intentos.ToString();
             this._cantidadFracasos++;
             this.lblCantFracasos.Text = this._cantidadFracasos.ToString();
 
@@ -122,12 +132,13 @@ namespace Test.Eventos.WF
 
         private void SeguiParticipando(object obj, EventArgs e)
         {
-            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos;
+            this.lblIntentos.Text = "Intentos " + this._juego.CantidadIntentos + " / " + this._juego.Intentos.ToString();
 
             MessageBox.Show("Uno más!!");
         }
 
         #endregion
 
+       
     }
 }
