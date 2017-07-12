@@ -1,0 +1,10 @@
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Main_Consola.exe.config
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Main_Consola.exe
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Main_Consola.pdb
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\obj\Debug\Main_Consola.csprojResolveAssemblyReference.cache
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\obj\Debug\Main_Consola.exe
+c:\users\wallydell\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\obj\Debug\Main_Consola.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Punto_3.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Punto_3.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Punto_4.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Main_Consola\bin\Debug\Punto_4.pdb

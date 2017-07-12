@@ -1,0 +1,7 @@
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\bin\Debug\Punto_4.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\bin\Debug\Punto_4.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\bin\Debug\Punto_3.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\bin\Debug\Punto_3.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\obj\Debug\Punto_4.csprojResolveAssemblyReference.cache
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\obj\Debug\Punto_4.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\aramayo.nicolas.final2c2016DEMO\Punto_4\obj\Debug\Punto_4.pdb
